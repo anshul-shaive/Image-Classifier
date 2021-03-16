@@ -7,7 +7,7 @@ Send a POST request(from postman,etc) there and in request body inside form-data
 
 Example:
 
-POST: https://dog-classifier-app-as.herokuapp.com/get_prediction
+POST: https://dog-classifier-app-as.herokuapp.com/get_prediction   <br/>
 Body:form-data:
 
 {
